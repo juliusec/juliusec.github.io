@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Kiko Now
+name: JC GreenMind
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Compartilhando um pouco do meu mundo ..
 
 #
 # Flags below are optional
@@ -21,9 +21,9 @@ avatar: https://avatars0.githubusercontent.com/u/17418700
 navigation:
   - name: Blog
     url: /
-  - name: About
+  - name: Sobre
     url: /about
-  - name: Archive
+  - name: Arquivos
     url: /archive
   - name: Tags
     url: /tags
@@ -40,7 +40,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: AWEEKJ/kiko-now
+  github: greenmind-sec
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
