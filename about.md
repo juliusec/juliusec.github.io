@@ -15,4 +15,4 @@ Sobre mim ...
 
 ### Contact me
 
-[jc *nospam* juliusec dot com)
+[jc *nospam* juliusec *dot* com)
